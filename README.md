@@ -1,6 +1,6 @@
 # 资料问答助手
 
-基于 Python、LangChain、Streamlit 与阿里云百炼的课程作业。上传一份课程资料后，应用先检索相关片段，再让在线模型根据片段回答，并展示参考内容，便于人工核对。
+基于 Python、LangChain、Streamlit 与阿里云百炼的智能应用。上传一份课程资料后，应用先检索相关片段，再让在线模型根据片段回答，并展示参考内容，便于人工核对。
 
 开源仓库：https://github.com/305muleng/langchainWork
 
